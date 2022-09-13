@@ -42,14 +42,31 @@
     <p> It is about a SPA (single page application) which purpose is to make requests to an external API openweathermap.org providing meteorological data whit whatever place of interest.</p> 
 
   
-  <a href="https://lnkd.in/gwyAr-P9" target=_blank>
+  
+  <a href="https://lnkd.in/gwyAr-P9" target="blank">
 <p> <b>Project deploy
 </b></p>
 </a>
- 
+  
+  <a href="https://github.com/JhonVB/Front" target="_blank">
+<p> <b>Repo Frontend
+</b></p>
+</a>
+    
+  <a href="https://github.com/JhonVB/Backend" target="_blank">
+<p> <b>Repo Backend
+</b></p>
+</a>
+  
+    
+  
 
+ 
 </div> 
 </div>
+
+
+
 
 
   
