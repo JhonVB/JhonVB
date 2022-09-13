@@ -92,19 +92,14 @@ I used React in conjunction with MaterialUI.</p>
 </div> 
 </div>
 
-
-
-
-
   
   ---
 
 
-
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+<a href="https://www.linkedin.com/in/jhonvb/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AjayKhalsa">
+<a href="https://github.com/JhonVB">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
