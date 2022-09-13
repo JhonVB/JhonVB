@@ -43,7 +43,7 @@
 
   
   
-  <a href="https://lnkd.in/gwyAr-P9" target="blank">
+  <a href="https://ptcrud.vercel.app/" target="blank">
 <p> <b>Project deploy
 </b></p>
 </a>
@@ -59,8 +59,35 @@
 </a>
   
     
-  
+ 
+ 
+</div> 
+</div>
 
+
+
+<div>
+<img width = "40%" align="right" height="200px" src="https://media-exp1.licdn.com/dms/image/C5622AQFEArNGu11ubQ/feedshare-shrink_800/0/1657244114047?e=1666224000&v=beta&t=nM23vSK6YxgHTp_LxtUk7ZC_d632Vv13f_Yv2cIU-RY" />
+<div align="left"> 
+  <h3> CRUD App </h3> 
+    <p>This is an application developed with the functionalities of a CRUD, consuming a backend made in Django that allows viewing data of a person created by the administrator, it can also manage a component of notifications, protected routes and authentication with JWT, in the frontend.
+I used React in conjunction with MaterialUI.</p> 
+
+  
+  
+  <a href="https://lnkd.in/gwyAr-P9" target="blank">
+<p> <b>Project deploy
+</b></p>
+</a>
+  
+  <a href="https://github.com/JhonVB/Weather-App" target="_blank">
+<p> <b>Repo
+</b></p>
+</a>
+    
+
+    
+ 
  
 </div> 
 </div>
