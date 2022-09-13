@@ -36,9 +36,9 @@
  
 
 <div>
-<img width = "40%" align="right" height="200px" src="https://media-exp1.licdn.com/dms/image/C5622AQFEArNGu11ubQ/feedshare-shrink_800/0/1657244114047?e=1666224000&v=beta&t=nM23vSK6YxgHTp_LxtUk7ZC_d632Vv13f_Yv2cIU-RY" />
+<img width = "40%" align="right" height="200px" src="https://media-exp1.licdn.com/dms/image/C4E22AQHhUxjJdnAnNg/feedshare-shrink_800/0/1663046421518?e=1666224000&v=beta&t=5Y0kDBFxu8Cf9enSOUkHaZKGall0kwcGf-nV1nQFccA" />
 <div align="left"> 
-  <h3> Weather App </h3> 
+  <h3> CRUD App </h3> 
     <p> It is about a SPA (single page application) which purpose is to make requests to an external API openweathermap.org providing meteorological data whit whatever place of interest.</p> 
 
   
@@ -69,7 +69,7 @@
 <div>
 <img width = "40%" align="right" height="200px" src="https://media-exp1.licdn.com/dms/image/C5622AQFEArNGu11ubQ/feedshare-shrink_800/0/1657244114047?e=1666224000&v=beta&t=nM23vSK6YxgHTp_LxtUk7ZC_d632Vv13f_Yv2cIU-RY" />
 <div align="left"> 
-  <h3> CRUD App </h3> 
+  <h3>  Weather App</h3> 
     <p>This is an application developed with the functionalities of a CRUD, consuming a backend made in Django that allows viewing data of a person created by the administrator, it can also manage a component of notifications, protected routes and authentication with JWT, in the frontend.
 I used React in conjunction with MaterialUI.</p> 
 
