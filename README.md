@@ -13,7 +13,14 @@
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles. 
+  
+- 🔭 Actualmente soy estudiante de informática en la Universidad de Mansoura.
+- 📚 Me encuentro aprendiendo desarrollo web backend usando Django y Python.
+- 📫 Cómo contactarme: [ Linkedin ](https://www.linkedin.com/in/hazemessamsaleh) [ Gmail ](mailto:hazemkwita123@gmail.com)
+
+-🔭 Actualmente estoy trabajando en aplicaciones con ReactJS, 
+-⚡ Lenguajes: Javascript y Python
 </div> 
 </div>
 
@@ -23,14 +30,6 @@
 
 
 
-- 🔭 Actualmente soy estudiante de informática en la Universidad de Mansoura.
-- 📚 Me aprendiendo desarrollo web backend usando Django y Python.
-- 📫 Cómo contactarme: [ Linkedin ](https://www.linkedin.com/in/hazemessamsaleh) [ Gmail ](mailto:hazemkwita123@gmail.com)
-
-
-
-🔭 Actualmente estoy trabajando en aplicaciones con ReactJS
-⚡ Lenguajes: Javascript y Python
 
 -->
 <div>
