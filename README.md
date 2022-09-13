@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **JhonVB/JhonVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -109,7 +108,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 
----
+
 ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
 
 
